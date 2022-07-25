@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836170002804",
+    "project_id": "chatapps-flutter",
+    "storage_bucket": "chatapps-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836170002804:android:15c4ce9658b0ef7237bc21",
+        "android_client_info": {
+          "package_name": "com.perykun.chatapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836170002804-qbcv3n005mqjnvlfpot0s8h7vd62kb3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6-nTtWIedBhXQnt1-RYy5DA3kGfWIA1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836170002804-qbcv3n005mqjnvlfpot0s8h7vd62kb3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
